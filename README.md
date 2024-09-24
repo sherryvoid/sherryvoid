@@ -101,15 +101,6 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
   <img src="https://github-profile-trophy.vercel.app/?username=sherryvoid&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:sherryvoid632@gmail.com"><img src="https://img.shields.io/badge/-sherryvoid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sherryvoid_sadi/"><img src="https://img.shields.io/badge/-@sherryvoid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/sherryvoid/"><img src="https://img.shields.io/badge/-/sherryvoid-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
-</p>
-
 <p align="center">
   <img src="https://hit.yhype.me/github/profile?user_id=50300882">
 </p>
