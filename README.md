@@ -89,25 +89,25 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherryvoid&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=sherryvoid&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherryvoid&theme=gruvbox"/></td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saadfareed&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=sherryvoid&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:sherryvoid632@gmail.com"><img src="https://img.shields.io/badge/-sherryvoid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sherryvoid_sadi/"><img src="https://img.shields.io/badge/-@sherryvoid-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://leetcode.com/sherryvoid/"><img src="https://img.shields.io/badge/-/sherryvoid-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <p align="center">
@@ -118,5 +118,5 @@ As a highly skilled Software Engineer, I specialize in the design, development, 
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+  <img src="https://profile-counter.glitch.me/sherryvoid/count.svg">
 </p>
